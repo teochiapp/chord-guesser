@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+:root{
+  /* CSS HEX */
+--black: #000000ff;
+--paynes-gray: #5d737eff;
+--maize: #fff07cff;
+--mint-cream: #f0f7ee;
+--cambridge-blue: #87bba2ff;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +45,4 @@
     transform: rotate(360deg);
   }
 }
+
